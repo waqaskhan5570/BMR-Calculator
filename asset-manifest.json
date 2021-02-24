@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BMR-Calculator/static/css/main.26dc90ae.chunk.css",
+    "main.js": "/BMR-Calculator/static/js/main.fd6ba0d6.chunk.js",
+    "main.js.map": "/BMR-Calculator/static/js/main.fd6ba0d6.chunk.js.map",
+    "runtime-main.js": "/BMR-Calculator/static/js/runtime-main.5df4950b.js",
+    "runtime-main.js.map": "/BMR-Calculator/static/js/runtime-main.5df4950b.js.map",
+    "static/css/2.150d169a.chunk.css": "/BMR-Calculator/static/css/2.150d169a.chunk.css",
+    "static/js/2.17a5be44.chunk.js": "/BMR-Calculator/static/js/2.17a5be44.chunk.js",
+    "static/js/2.17a5be44.chunk.js.map": "/BMR-Calculator/static/js/2.17a5be44.chunk.js.map",
+    "static/js/3.e8d8ce72.chunk.js": "/BMR-Calculator/static/js/3.e8d8ce72.chunk.js",
+    "static/js/3.e8d8ce72.chunk.js.map": "/BMR-Calculator/static/js/3.e8d8ce72.chunk.js.map",
+    "index.html": "/BMR-Calculator/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/BMR-Calculator/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.26dc90ae.chunk.css.map": "/BMR-Calculator/static/css/main.26dc90ae.chunk.css.map",
+    "static/js/2.17a5be44.chunk.js.LICENSE.txt": "/BMR-Calculator/static/js/2.17a5be44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5df4950b.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.17a5be44.chunk.js",
+    "static/css/main.26dc90ae.chunk.css",
+    "static/js/main.fd6ba0d6.chunk.js"
+  ]
+}
